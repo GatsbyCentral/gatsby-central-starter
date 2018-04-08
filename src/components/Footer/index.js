@@ -4,7 +4,6 @@ import styled from "styled-components";
 
 const Element = styled.div`
   background-color: #3d348b;
-  margin-bottom: 1rem;
 `;
 
 const Container = styled.div`
@@ -13,19 +12,19 @@ const Container = styled.div`
   padding: 1.45rem 1.0875rem;
 `;
 
-const Link = styled(BasicLink)`
+const Link = styled.a`
   color: white;
   text-decoration: none;
 `;
 
-const Header = () => (
+const Footer = () => (
   <Element>
     <Container>
-      <h1 style={{ margin: 0 }}>
-        <Link to="/">Gatsby Central</Link>
-      </h1>
+      <Link href="https://superlumen.io" target="_blank">
+        Powered by superlumen
+      </Link>
     </Container>
   </Element>
 );
 
-export default Header;
+export default Footer;
