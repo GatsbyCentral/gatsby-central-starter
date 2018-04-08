@@ -8,6 +8,7 @@
     "gatsby-link": "^1.6.38",
     "gatsby-plugin-react-helmet": "^2.0.6",
     "gatsby-plugin-resolve-src": "^1.0.0",
+    "gatsby-plugin-sitemap": "^1.2.20",
     "gatsby-plugin-styled-components": "^2.0.9",
     "gatsby-plugin-typography": "^1.7.18",
     "react-helmet": "^5.2.0",
