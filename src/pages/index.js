@@ -1,10 +1,12 @@
 import React from 'react'
+import { Heading, Text } from 'unstyled'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
+    <Heading>Hi people</Heading>
+    <Text>This is our starter project for GatsbyJS</Text>
   </Layout>
 )
 

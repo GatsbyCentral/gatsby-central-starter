@@ -5758,8 +5758,8 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
 
 needle@^2.2.1:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/needle/-/needle-2.2.3.tgz#c1b04da378cd634d8befe2de965dc2cfb0fd65ca"
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/needle/-/needle-2.2.4.tgz#51931bff82533b1928b7d1d69e01f1b00ffd2a4e"
   dependencies:
     debug "^2.1.2"
     iconv-lite "^0.4.4"
@@ -8346,9 +8346,9 @@ unset-value@^1.0.0:
     has-value "^0.3.1"
     isobject "^3.0.0"
 
-unstyled@^0.0.23:
-  version "0.0.23"
-  resolved "https://registry.yarnpkg.com/unstyled/-/unstyled-0.0.23.tgz#dbcf696ca3cf10f1c76982ad256417cfde4cfdce"
+unstyled@^0.0.24:
+  version "0.0.24"
+  resolved "https://registry.yarnpkg.com/unstyled/-/unstyled-0.0.24.tgz#c562f20fff6d8b759e4573fd9b83a127db3e90c3"
   dependencies:
     prop-types "^15.6.0"
     react "^16.2.0"
