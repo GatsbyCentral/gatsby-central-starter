@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Central Starter',
+    siteUrl: 'https://gatsby-central.starter.netlify.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -18,6 +19,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+    // Note: Change `siteMetadata.siteUrl` to your domain in this file.
     'gatsby-plugin-sitemap',
   ],
 }
